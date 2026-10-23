@@ -1,5 +1,5 @@
 streamlit
 sentence-transformers
-openai
+groq
 pypdf
 numpy
